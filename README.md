@@ -1,2 +1,3 @@
-# btb-app
-Micro-mobility as a service application
+# btb-gpt
+This is a test of heroku connectivity for MERN app hosting
+test
